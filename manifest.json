@@ -1,7 +1,7 @@
 {
-    "name": "MadAds",
+    "name": "Jagdish",
     "version": "1.0",
-    "description": "Arpit's Ad Blocker",
+    "description": "Jagdish's Ad Blocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
