@@ -9,6 +9,9 @@ const defaultFilters = [
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
 	"*://*.zedo.com/*",
+	"*://*.amazon.com/*",
+	"*://*.flipkart.com/*",
+	"*://*.myntra.com/*",
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
